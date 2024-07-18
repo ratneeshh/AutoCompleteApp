@@ -20,7 +20,7 @@ public class AutoCompleteApp extends Application {
         trie.insert("heavy");
         trie.insert("hello");
         trie.insert("helipad");
-        trie.insert("hellen");
+        trie.insert("helen");
 
         TextField textField = new TextField();
         ListView<String> listView = new ListView<>();
