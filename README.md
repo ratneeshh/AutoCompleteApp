@@ -1,4 +1,4 @@
-# Autocomplete System
+# Autocomplete App
 
 This project implements a text autocomplete system using a Trie data structure in Java, with a JavaFX user interface. The application suggests possible completions for the prefix entered by the user.
 
